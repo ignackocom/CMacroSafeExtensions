@@ -1,12 +1,15 @@
 /******************************************************************************
 * \file      SafeFile.h
-* \author    Peter Potrok
+* \version   2025.03.18
+* \author    Peter Potrok ( @ignackocom )
+*            ignacko.com@outlook.com
+*            https://github.com/ignackocom
 * \copyright Copyright (c) 1994 - 2025
 *            MIT License (see License.txt file)
 * \brief     Safe File macros
 * \details
 *
-* \see       
+* \see       https://github.com/ignackocom
 *            and other resources
 ******************************************************************************/
 
